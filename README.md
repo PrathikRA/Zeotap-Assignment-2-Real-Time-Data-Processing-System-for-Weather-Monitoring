@@ -10,7 +10,7 @@ Real-time data retrieval from OpenWeatherMap API for cities like Delhi, Mumbai, 
 
 1.2 Clone the Repository
 
---git clone https://github.com/your-username/weather-monitoring-system.git
+--git clone https://github.com/PrathikRA/Zeotap-Assignment-2-Real-Time-Data-Processing-System-for-Weather-Monitoring.git
 
 --cd weather-monitoring-system
 
