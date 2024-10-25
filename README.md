@@ -18,7 +18,7 @@ Real-time data retrieval from OpenWeatherMap API for cities like Delhi, Mumbai, 
 
 OPENWEATHER_API_KEY = 'your_openweather_api_key_here' # Replace with your actual API key
 
-CITIES = ['Delhi', 'Mumbai', 'Chennai', 'Bangalore', 'Kolkata', 'Hyderabad'] # You can modify the city list here
+CITIES = ['Karnataka', 'Mangalore', 'Chennai', 'Bangalore', 'Kerala', 'Hyderabad'] # You can modify the city list here
 
 POLL_INTERVAL = 200 
 
