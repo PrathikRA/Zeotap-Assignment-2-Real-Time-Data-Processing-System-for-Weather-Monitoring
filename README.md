@@ -20,9 +20,9 @@ OPENWEATHER_API_KEY = 'your_openweather_api_key_here' # Replace with your actual
 
 CITIES = ['Delhi', 'Mumbai', 'Chennai', 'Bangalore', 'Kolkata', 'Hyderabad'] # You can modify the city list here
 
-POLL_INTERVAL = 300 # Interval to fetch weather data in seconds (default: 5 minutes)
+POLL_INTERVAL = 200 
 
-TEMP_THRESHOLD = 35 # Example threshold for triggering alerts in Celsius
+TEMP_THRESHOLD = 35
 
 Adjust the cities and interval as per your requirements.
 
