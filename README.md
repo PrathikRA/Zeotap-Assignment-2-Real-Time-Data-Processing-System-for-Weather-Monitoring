@@ -1,6 +1,8 @@
-Real-Time-Data-Processing-System-for-Weather-Monitoring-with-Rollups-and-Aggregates
-Weather Monitoring System
-Project Overview This real-time weather monitoring system continuously retrieves weather data from the OpenWeatherMap API for selected metro cities in India. The system processes the data, calculates rollups (average, max, min temperatures, dominant weather conditions), stores daily summaries, and triggers alerts if user-defined weather thresholds are breached.
+Real-Time-Data-Processing-System-for-Weather-Monitoring-with-Rollups-and-Aggregates Weather Monitoring System
+
+Project Overview:
+
+This real-time weather monitoring system continuously retrieves weather data from the OpenWeatherMap API for selected metro cities in India. The system processes the data, calculates rollups (average, max, min temperatures, dominant weather conditions), stores daily summaries, and triggers alerts if user-defined weather thresholds are breached.
 
 Key Features
 Real-time data retrieval from OpenWeatherMap API for cities like Delhi, Mumbai, Chennai, Bangalore, Kolkata, Hyderabad. Daily weather summaries that calculate average, max, min temperatures, and dominant weather conditions. Alerting system to notify users when specific weather conditions (like high temperature) are met. Database storage of daily weather summaries for further analysis. Visualizations (optional) of weather trends and triggered alerts.
